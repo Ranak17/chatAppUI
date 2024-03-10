@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b7eaa7de-159e-4ce3-be1e-8b7fa2678431/resourceGroups/chatAppKaranUI_group/providers/Microsoft.Web/sites/chatappvite",
+    "appService.deploySubpath": "dist"
+}
